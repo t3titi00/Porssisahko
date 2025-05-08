@@ -1,4 +1,4 @@
-# Pörssisähkö-hinta-sivusto
+# Pörssisähkön hinta-sivusto
 
 Tämä on kouluprojekti, joka näyttää pörssisähkön spot-hinnan reaaliajassa sekä hinnat viimeisen 48:n tunnin ajalta. Tiedot haetaan käyttämällä [porssisahko.net](https://porssisahko.net/api)-sivuston avointa rajapintaa.
 
